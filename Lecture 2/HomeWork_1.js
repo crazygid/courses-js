@@ -45,15 +45,15 @@ s('');
 /*Напишите функцию, которая принимает 1 параметр - объект и добавляет этому
  объекту поле checked со значением true. */
 
-function f4(newObj = {}) {
+function s(Obj = {}) {
     var myObj = { "checked": "true" };
-    newObj.element = "HELLO";
+    Obj.element = "HELLO";
 
-    console.log(newObj);
+    console.log(Obj);
 
 }
 
-f4(myObj);
+s(myObj);
 
 // Задание 5
 
