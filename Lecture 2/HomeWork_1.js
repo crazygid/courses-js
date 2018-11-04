@@ -17,7 +17,7 @@ function s(x, y) {
 строку вида, “Вы ввели * полученная строка *”.*/
 
 function s(x) {
-    var y = '�� ����� ' + x;
+    var y = 'Вы ввели ' + x;
     return y;
 } s('Hello World!');
 
