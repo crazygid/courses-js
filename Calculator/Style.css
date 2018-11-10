@@ -1,0 +1,50 @@
+body{
+    background: #cccccc;
+    padding: 0;
+    margin: 0;
+    font-family: arial;
+    font-size: 14px;
+    line-height: 28px;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
+.page{
+    color: rgb(210, 221, 203);
+    padding: 20px;
+}
+.history{
+    color: rgb(210, 221, 203);
+    padding: 20px;
+}
+.answerbox{
+    background: #72836d;
+    padding: 0 5px;
+    height: 40px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.button{
+    background: rgb(171, 161, 226);
+    padding: 30 17px;
+    cursor: pointer;
+    width:60px;
+    text-align: center;
+    border: 1px solid rgb(133, 111, 93);
+    border-radius: 5px;
+}
+.equally_button{
+    background: rgb(171, 161, 226);
+    padding: 30 17px;
+    cursor: pointer;
+    width:60px;
+    text-align: center;
+    border: 1px solid rgb(133, 111, 93);
+    border-radius: 5px;
+}
+
+.history_result{
+    background: #ebeeea;
+    height: 445px;
+}
