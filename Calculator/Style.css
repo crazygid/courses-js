@@ -24,6 +24,7 @@ body{
     text-align: center;
     border: 1px solid #ccc;
     border-radius: 5px;
+     overflow-x:hidden;
 }
 .button{
     background: rgb(171, 161, 226);
@@ -47,7 +48,6 @@ body{
 .history_result{
     background: #ebeeea;
     height: 445px;
-    overflow-x:hidden;
     z-index: 100000;
     overflow-y: auto;
 }
