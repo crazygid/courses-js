@@ -47,4 +47,7 @@ body{
 .history_result{
     background: #ebeeea;
     height: 445px;
+    overflow-x:hidden;
+    z-index: 100000;
+    overflow-y: auto;
 }
